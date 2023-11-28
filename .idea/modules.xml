@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AI Labs.iml" filepath="$PROJECT_DIR$/AI Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 1/Assignment 1.iml" filepath="$PROJECT_DIR$/Assignment 1/Assignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSP/CSP.iml" filepath="$PROJECT_DIR$/CSP/CSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expert System/Expert System.iml" filepath="$PROJECT_DIR$/Expert System/Expert System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Family Tree/Family Tree.iml" filepath="$PROJECT_DIR$/Family Tree/Family Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Informed Search/Informed Search.iml" filepath="$PROJECT_DIR$/Informed Search/Informed Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uninformed Search/Uninformed Search.iml" filepath="$PROJECT_DIR$/Uninformed Search/Uninformed Search.iml" />
+    </modules>
+  </component>
+</project>
